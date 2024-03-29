@@ -1,4 +1,3 @@
-```markdown
 # Music Player
 
 This repository contains a Java program for a simple music player.
